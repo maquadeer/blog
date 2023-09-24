@@ -4,7 +4,7 @@
 
 #theme="github-style"
 
-baseURL = "https://themaqblog.github.io/"
+baseURL = "https://maquadeer.github.io/themaqblog/"
 title = "THE MAQ BLOG"
 languageCode = "en"
 DefaultContentLanguage = "en" # Change this to change the site's language
