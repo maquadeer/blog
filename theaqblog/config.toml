@@ -19,7 +19,7 @@ preserveTaxonomyNames = true
     mainpagesubtitle = "Welcome to the MAQ blog" 
 
     # The description of your website. It will be displayed in the home page
-    mainpagedesc = "This theme is the Hugo port of the BOOTSTRA.386 theme for a cool retro look on your blog. Check the links below to access the posts."
+    mainpagedesc = "Enter the quirky realm of a CSE student's life, where lines of code are only rivaled by lines of laughter.Join me as I share my comical escapades, from debugging dilemmas to meme-worthy moments in the world of ones and zeroes."
 
     # The name to display in the copyright section in the footer
     copyrightname = "MAQ"
