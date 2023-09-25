@@ -1,10 +1,10 @@
-#baseURL = 'https://themaqblog.github.io/'
+baseURL = "/"
 #languageCode = 'en-us'
 #title = 'My New Hugo Site'
 
 #theme="github-style"
 
-baseURL = "https://maquadeer.github.io/themaqblog/"
+#baseURL = "https://maquadeer.github.io/themaqblog/"
 title = "THE MAQ BLOG"
 languageCode = "en"
 DefaultContentLanguage = "en" # Change this to change the site's language
